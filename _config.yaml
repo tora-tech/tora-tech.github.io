@@ -8,5 +8,5 @@ description: >
   <br><br>
   <a href="https://uk.linkedin.com/company/toratechnology">View Our LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+remote_theme: orderedlist/minimal
 google_analytics: UA-000000-0
